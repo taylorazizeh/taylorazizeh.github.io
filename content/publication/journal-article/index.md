@@ -30,7 +30,7 @@ publication_types: ["2"]
 publication: "*Marine Ecology Progress Series, 668*(133-148)"
 publication_short: "MEPS"
 
-abstract: ''
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
