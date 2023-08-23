@@ -1,13 +1,21 @@
 ---
-title: "An example journal article"
+title: "Acute and chronic behavioral effects of kelp gull micropredation on southern right whale mother−calf pairs off Península Valdés, Argentina"
 authors:
 - admin
-- Robert Ford
+- Kate R. Sprogis
+- Raquel Soley
+- Mia L.K. Nielsen
+- Marcela M. Uhart
+- Mariano Sironi
+- Carina F. Marón
+- Lars Bejder
+- Peter T. Madsen
+- Fredrik Christiansen
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2021-06-24T00:00:00Z"
+doi: "https://doi.org/10.3354/meps13716"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,10 +27,28 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*Marine Ecology Progress Series, 668*(133-148)"
+publication_short: "MEPS"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Kelp gulls *Larus dominicanus* (KG) feed on the skin and blubber of living southern
+right whales *Eubalaena australis* (SRWs) off Península Valdés (PV), Argentina. The whales re -
+spond strongly to KG micropredation by changing their immediate (acute) behavior during
+attacks and their overall (chronic) surfacing pattern and body posture to minimize gull exposure.
+The energetic and large-scale behavioral consequences of these attacks are unknown. To address
+this knowledge gap, we quantified the effect size of both acute (during attacks) and chronic (not
+during attacks) responses by comparing the respiration rates, swim speed, and nursing behavior
+of PV SRWs to undisturbed (control) SRW mother−calf pairs in Head of Bight, Australia, using un -
+manned aerial vehicle focal follows. Even when gulls were not attacking, PV SRW mothers and
+calves demonstrated ~50 and ~25% higher respiration rates, respectively, than whales in Australia.
+During attacks, PV calf respiration rates increased by an additional 10%. PV SRW mothers
+also frequently (>76% of respirations) exhibited irregular breathing postures, causing the whales
+to potentially expend extra energy by working against their natural buoyancy. Despite no significant
+increase in average maternal swim speed, 76 and 90% of gull attacks elicited strong behavioral
+reactions from mothers and calves, respectively. Overall, PV calves spent less time nursing
+during individual bouts compared to those in Australia but entered suckling position more frequently.
+Furthermore, kelp gulls seemed to show a preference for attacking previously wounded
+calves and at a higher rate. These chronic and acute behavioral effects may carry energetic costs,
+which could have long-term consequences for SRW survival and reproduction.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -34,8 +60,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: 'https://www.int-res.com/abstracts/meps/v668/p133-148/'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -46,7 +72,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: Dr. Fredrik Christiansen'
   focal_point: ""
   preview_only: false
 
@@ -55,7 +81,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [content/project/respiratory-dynamics/index.md]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
