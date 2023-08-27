@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  theme_day: classic
-  theme_night: classic
+  theme_day: light
+  theme_night: dark
   font: classic
   # Sizes are xs, s, m, l, and xl
   font_size: m
