@@ -19,7 +19,7 @@ role: Graduate Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Moss Landing Marine Laboratories
-    url: [https://mlml.sjsu.edu/]
+    url: []
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include wildlife energetics, the effects of disturbance, polar biology, and more!
@@ -53,22 +53,22 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/TAzizeh
+    link: 
     label: Twitter
     display:
       header: true
   - icon: github
     icon_pack: fab
-    link: https://github.com/taylorazizeh
+    link: 
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/taylorazizeh
+    link: 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  #- icon: cv
+    #icon_pack: ai
+    #link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
