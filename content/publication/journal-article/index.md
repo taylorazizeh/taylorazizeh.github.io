@@ -1,7 +1,7 @@
 ---
 title: "Acute and chronic behavioral effects of kelp gull micropredation on southern right whale mother−calf pairs off Península Valdés, Argentina"
 authors:
-- admin
+- taylor-azizeh
 - Kate R. Sprogis
 - Raquel Soley
 - Mia L.K. Nielsen
