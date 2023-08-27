@@ -62,7 +62,7 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image: featured.png
+image:
   caption: 'Searching for bats with Dr. Rodrigo Cisneros, outside of Loja, Ecuador.'
   focal_point: ''
   preview_only: false
