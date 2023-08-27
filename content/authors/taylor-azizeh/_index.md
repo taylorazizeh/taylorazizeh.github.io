@@ -46,7 +46,7 @@ education:
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:taylorazizeh@gmail.com" or "/#contact" for contact widget.
+#   form "mailto:" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
@@ -77,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Taylor Azizeh is an NSF GRFP Fellow at Moss Landing Marine Laboratories. Her research interests include wildlife energetics, the effects of disturbance, effects of climate change, and more.
 {style="text-align: justify;"}
