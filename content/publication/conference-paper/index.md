@@ -1,6 +1,5 @@
 ---
-title: 'Ecotoxicology of bats in urban, pasture and forested sites of the southern
-Ecuadorian Andes'
+title: 'Ecotoxicology of bats in urban, pasture and forested sites of the southern Ecuadorian Andes'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -40,7 +39,7 @@ publication_short: In *CGAUCIT*
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags: []
 
@@ -63,7 +62,7 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
+image: featured.png
   caption: 'Searching for bats with Dr. Rodrigo Cisneros, outside of Loja, Ecuador.'
   focal_point: ''
   preview_only: false
