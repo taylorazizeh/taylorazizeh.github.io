@@ -73,3 +73,9 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_
