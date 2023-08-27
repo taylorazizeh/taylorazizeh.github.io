@@ -4,13 +4,12 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: classic
+  theme_night: classic
   font: classic
   # Sizes are xs, s, m, l, and xl
-  font_size: L
+  font_size: m
 
 # SEO
 marketing:
@@ -34,7 +33,6 @@ marketing:
     baidu: ''
 
 # Site header
-
 header:
   navbar:
     # Choose a navigation block
@@ -57,9 +55,8 @@ header:
     highlight_active_link: true
     
 # Site footer
-
 footer:
-  block: minimal
+  block: classic
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
     license:
