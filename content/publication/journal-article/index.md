@@ -15,7 +15,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2021-06-24T00:00:00Z"
-doi: "https://doi.org/10.3354/meps13716"
+doi: "10.3354/meps13716"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -30,16 +30,16 @@ publication_types: ["2"]
 publication: "*Marine Ecology Progress Series, 668*(133-148)"
 publication_short: "MEPS"
 
-abstract: 
+abstract:
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:
 
 tags:
 - Source Themes
 featured: false
 
-# links:
+links:
 # - name: ""
 #   url: ""
 url_pdf: 'https://www.int-res.com/abstracts/meps/v668/p133-148/'
