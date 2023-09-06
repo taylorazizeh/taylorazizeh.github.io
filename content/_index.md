@@ -30,7 +30,7 @@ sections:
           location: California
           date_start: '2021-08-01'
           date_end: ''
-          % description:
+          description:
         - title: XX
           company: XX
           company_url: ''
