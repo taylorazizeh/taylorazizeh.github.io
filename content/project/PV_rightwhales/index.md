@@ -14,10 +14,10 @@ image:
   focal_point: XX
 
 links:
-  - icon: readme
-    icon_pack: fab
-    name: Follow me on Twitter!
-    url: https://twitter.com/TAzizeh
+  - icon: 
+    icon_pack: 
+    name: 
+    url:
 url_code: ''
 url_pdf: ''
 url_slides: ''
