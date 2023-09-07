@@ -6,10 +6,6 @@ title: Taylor Azizeh
 first_name: Taylor
 last_name: Azizeh
 
-# Status emoji
-status:
-  #icon: ☕️
-
 # Is this the primary user of the site?
 superuser: true
 
