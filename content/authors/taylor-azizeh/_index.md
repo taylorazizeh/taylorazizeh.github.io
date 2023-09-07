@@ -15,16 +15,16 @@ role: Graduate Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Moss Landing Marine Laboratories
-    url: []
+    url: [https://mlml.sjsu.edu/]
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include wildlife energetics, the effects of disturbance, polar biology, and more!
 
 # Interests to show in About widget
 interests:
-  - XX
-  - XX
-  - XX
+  - Wildlife ecology
+  - Wildlife photography
+  - Outdoor recreation
 
 # Education to show in About widget
 education:
@@ -46,25 +46,28 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:taylorazizeh@gmail.com'
   - icon: twitter
     icon_pack: fab
-    link: 
+    link: https://twitter.com/TAzizeh
     label: Twitter
     display:
       header: true
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: (https://scholar.google.com/citations?user=gJJQUBkAAAAJ&hl=en) 
   - icon: github
     icon_pack: fab
-    link: 
+    link: https://github.com/taylorazizeh
   - icon: linkedin
     icon_pack: fab
-    link: 
+    link: https://www.linkedin.com/in/taylorazizeh/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  #- icon: cv
-    #icon_pack: ai
-    #link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
