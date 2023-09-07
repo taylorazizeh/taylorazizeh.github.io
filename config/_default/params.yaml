@@ -56,7 +56,6 @@ header:
     
 # Site footer
 footer:
-  block: classic
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
     license:
