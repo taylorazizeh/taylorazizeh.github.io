@@ -1,12 +1,14 @@
 ---
-title: XX
-summary: XX
+title: Foraging ecology of emperor penguins
+summary: Investigating the foraging ecology of late chick-rearing emperor penguins in the Ross Sea, Antarctica.
 tags:
-  - XX
-date: '2016-04-27T00:00:00Z'
+  - seabirds
+  - biologging
+  - polar biology
+date: '2023-09-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://mlml.sjsu.edu/birdmam/emperor-penguin-expedition-2022-season/'
 
 image:
   caption: XX
