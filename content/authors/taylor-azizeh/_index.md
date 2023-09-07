@@ -33,10 +33,10 @@ education:
       institution: Moss Landing Marine Laboratories
       year: expected 2024
     - course: B.Sc. in Environmental Science
-      institution: [University of Idaho](https://www.uidaho.edu/cnr)
+      institution: University of Idaho
       year: 2019
     - course: BSc in Wildlife Resources
-      institution: [University of Idaho](https://www.uidaho.edu/cnr)
+      institution: University of Idaho
       year: 2019
 
 # Social/Academic Networking
