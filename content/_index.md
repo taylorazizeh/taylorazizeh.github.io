@@ -43,7 +43,7 @@ sections:
           company: Moss Landing Marine Laboratories
           company_url: 'https://mlml.sjsu.edu/birdmam/taylor-azizeh'
           company_logo: mlml-logo
-          location: California
+          location: Moss Landing, California
           date_start: '2021-08-01'
           date_end: ''
           description: Currently a graduate student in the Vertebrate Ecology Lab, studying the foraging ecology of emperor penguins.
@@ -78,7 +78,7 @@ sections:
           location: Loja, Ecuador
           date_start: '2018-01-01'
           date_end: '2018-12-01'
-          description: Participated in the IRES at the University of Idaho, investigating bat physiology in an urbanized landscape.
+          description: Participated in the IRES Program at the University of Idaho, investigating bat physiology in an urbanized landscape with Dr. Lisette Waits and Dr. Rodrigo Cisneros.
     design:
       columns: '2'
   - block: accomplishments
