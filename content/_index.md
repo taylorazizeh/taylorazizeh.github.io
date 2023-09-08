@@ -34,7 +34,7 @@ sections:
         - title: Naturalist and Deckhand
           company: Sea Goddess Whale Watching
           company_url: 'https://seagoddesswhalewatch.com/'
-          company_logo: Sea-Goddess-Whale-Watching-Logo-bw
+          company_logo: SGWW_logo
           location: Moss Landing, California
           date_start: '2022-03-01'
           date_end: ''
@@ -54,7 +54,7 @@ sections:
           location: Cambridge, United Kingdom
           date_start: '2020-08-01'
           date_end: '2021-05-01'
-          description: XX
+          description: Worked on a project with Dr. Jennifer Jackson examining historical southern right whale catch data.
         - title: Field Officer
           company: Oceanomare Delphis Onlus
           company_url: 'https://oceanomaredelphis.org/en/'
