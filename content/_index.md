@@ -11,7 +11,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: taylor-azizeh
- - block: experience
+  - block: experience
     content:
       title: Experience
       # Date format for experience
