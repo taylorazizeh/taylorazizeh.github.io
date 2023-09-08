@@ -11,7 +11,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: taylor-azizeh
-  - block: experience
+ - block: experience
     content:
       title: Experience
       # Date format for experience
@@ -23,7 +23,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-       - title: Protected Species Observer
+        - title: Protected Species Observer
           company: Elkhorn Slough National Estuarine Research (ESNERR)
           company_url: 'https://mlml.sjsu.edu/birdmam/taylor-azizeh](https://elkhornslough.org/reserve/'
           company_logo: org-gc
