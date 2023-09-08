@@ -71,6 +71,14 @@ sections:
           date_start: '2019-08-01'
           date_end: '2020-07-01'
           description:
+        - title: International Research Experience for Students (IRES) Participant
+          company: National Science Foundation
+          company_url: 'https://new.nsf.gov/funding/opportunities/international-research-experiences-students-ires-0'
+          company_logo: NSF_logo
+          location: Loja, Ecuador
+          date_start: '2018-01-01'
+          date_end: '2018-12-01'
+          description: Participated in the IRES at the University of Idaho, investigating bat physiology in an urbanized landscape.
     design:
       columns: '2'
   - block: accomplishments
