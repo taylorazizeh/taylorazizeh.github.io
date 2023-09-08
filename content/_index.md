@@ -26,7 +26,7 @@ sections:
         - title: Protected Species Observer
           company: Elkhorn Slough National Estuarine Research (ESNERR)
           company_url: 'https://mlml.sjsu.edu/birdmam/taylor-azizeh](https://elkhornslough.org/reserve/'
-          company_logo: mlml-logo
+          company_logo: ESF_logo
           location: Moss Landing, California
           date_start: '2022-05-01'
           date_end: ''
@@ -34,7 +34,7 @@ sections:
         - title: Naturalist and Deckhand
           company: Sea Goddess Whale Watching
           company_url: 'https://seagoddesswhalewatch.com/'
-          company_logo: org-gc
+          company_logo: Sea-Goddess-Whale-Watching-Logo-bw
           location: Moss Landing, California
           date_start: '2022-03-01'
           date_end: ''
@@ -42,7 +42,7 @@ sections:
         - title: Graduate Student
           company: Moss Landing Marine Laboratories
           company_url: 'https://mlml.sjsu.edu/birdmam/taylor-azizeh'
-          company_logo: org-gc
+          company_logo: mlml-logo
           location: California
           date_start: '2021-08-01'
           date_end: ''
@@ -50,7 +50,7 @@ sections:
         - title: Research Intern
           company: British Antarctic Survey
           company_url: 'https://www.bas.ac.uk/'
-          company_logo: org-x
+          company_logo: bas_logo
           location: Cambridge, United Kingdom
           date_start: '2020-08-01'
           date_end: '2021-05-01'
@@ -58,7 +58,7 @@ sections:
         - title: Field Officer
           company: Oceanomare Delphis Onlus
           company_url: 'https://oceanomaredelphis.org/en/'
-          company_logo: org-x
+          company_logo: ODO_logo
           location: Ischia, Italy
           date_start: '2020-06-01'
           date_end: '2020-09-01'
@@ -66,7 +66,7 @@ sections:
         - title: Open Study/Research Student
           company: U.S. Fulbright Program
           company_url: 'https://us.fulbrightonline.org/'
-          company_logo: org-x
+          company_logo: fulbright_logo
           location: Aarhus, Denmark | Nuuk, Greenland
           date_start: '2019-08-01'
           date_end: '2020-07-01'
