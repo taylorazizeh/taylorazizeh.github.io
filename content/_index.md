@@ -46,7 +46,7 @@ sections:
           location: California
           date_start: '2021-08-01'
           date_end: ''
-          description:
+          description: Currently a graduate student in the Vertebrate Ecology Lab, studying the foraging ecology of emperor penguins.
         - title: Research Intern
           company: British Antarctic Survey
           company_url: 'https://www.bas.ac.uk/'
