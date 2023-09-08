@@ -76,5 +76,5 @@ email: ''
 highlight_name: true
 ---
 
-Taylor Azizeh is currently a [NSF GRFP Fellow](https://www.nsfgrfp.org/) at [Moss Landing Marine Laboratories](https://mlml.sjsu.edu/). Her research interests include wildlife energetics, the effects of disturbance, effects of climate change, and more.
+I am currently a [NSF GRFP Fellow](https://www.nsfgrfp.org/) at [Moss Landing Marine Laboratories](https://mlml.sjsu.edu/). My research interests broadly focus on wildlife ecology, bioenergetics, the effects of disturbance, habitat use, and more.
 {style="text-align: justify;"}
