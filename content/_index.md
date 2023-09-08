@@ -23,6 +23,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+       - title: Protected Species Observer
+          company: Elkhorn Slough National Estuarine Research (ESNERR)
+          company_url: 'https://mlml.sjsu.edu/birdmam/taylor-azizeh](https://elkhornslough.org/reserve/'
+          company_logo: org-gc
+          location: Moss Landing, California
+          date_start: '2022-05-01'
+          date_end: ''
+          description: Help protect federally protected marine species through monitoring and mitigation.
+       - title: Naturalist & Deckhand
+          company: Sea Goddess Whale Watching
+          company_url: 'https://seagoddesswhalewatch.com/'
+          company_logo: org-gc
+          location: Moss Landing, California
+          date_start: '2022-03-01'
+          date_end: ''
+          description: Assist with safe operation of vessel around marine mammals, conduct outreach with customers, and help identify species at distance.
         - title: Graduate Student
           company: Moss Landing Marine Laboratories
           company_url: 'https://mlml.sjsu.edu/birdmam/taylor-azizeh'
@@ -31,14 +47,30 @@ sections:
           date_start: '2021-08-01'
           date_end: ''
           description:
-        - title: XX
-          company: XX
-          company_url: ''
+        - title: Research Intern
+          company: British Antarctic Survey
+          company_url: 'https://www.bas.ac.uk/'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          location: Cambridge, United Kingdom
+          date_start: '2020-08-01'
+          date_end: '2021-05-01'
           description: XX
+        - title: Field Officer
+          company: Oceanomare Delphis Onlus
+          company_url: 'https://oceanomaredelphis.org/en/'
+          company_logo: org-x
+          location: Ischia, Italy
+          date_start: '2020-06-01'
+          date_end: '2020-09-01'
+          description: Assist with acoustic and behavioral surveys of cetaceans (namely sperm whales) on the R.V. Jean Gab in the Tyrrhenian Sea.
+        - title: Open Study/Research Student
+          company: U.S. Fulbright Program
+          company_url: 'https://us.fulbrightonline.org/'
+          company_logo: org-x
+          location: Aarhus, Denmark | Nuuk, Greenland
+          date_start: '2019-08-01'
+          date_end: '2020-07-01'
+          description:
     design:
       columns: '2'
   - block: accomplishments
