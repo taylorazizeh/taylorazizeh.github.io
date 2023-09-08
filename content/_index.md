@@ -25,7 +25,7 @@ sections:
       items:
         - title: Protected Species Observer
           company: Elkhorn Slough National Estuarine Research (ESNERR)
-          company_url: 'https://mlml.sjsu.edu/birdmam/taylor-azizeh](https://elkhornslough.org/reserve/'
+          company_url: 'https://elkhornslough.org/reserve/'
           company_logo: ESF_logo
           location: Moss Landing, California
           date_start: '2022-05-01'
