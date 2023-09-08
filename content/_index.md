@@ -31,7 +31,7 @@ sections:
           date_start: '2022-05-01'
           date_end: ''
           description: Help protect federally protected marine species through monitoring and mitigation.
-       - title: Naturalist & Deckhand
+        - title: Naturalist and Deckhand
           company: Sea Goddess Whale Watching
           company_url: 'https://seagoddesswhalewatch.com/'
           company_logo: org-gc
