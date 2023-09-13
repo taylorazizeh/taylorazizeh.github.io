@@ -165,7 +165,7 @@ sections:
           organization: University of Idaho
           organization_url: https://www.uidaho.edu/cnr
           title: 'Alumni Excellence Award'
-          url: 'https://www.uidaho.edu/-/media/UIdaho-Responsive/Files/cnr/about/cnr-awards-2018-2019.pdf'    
+          url: ''    
     design:
       background:
         image:
