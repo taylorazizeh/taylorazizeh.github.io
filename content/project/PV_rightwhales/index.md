@@ -9,7 +9,7 @@ date: '2021-01-01T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://www.int-res.com/abstracts/meps/v668/p133-148/'
 
-image: featured.jpg
+image:
   caption: Photo by Fredrik Christiansen
   focal_point: XX
   
