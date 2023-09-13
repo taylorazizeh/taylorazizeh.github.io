@@ -1,6 +1,6 @@
 ---
 title: Effects of biological stressor on southern right whales
-summary: Quantifying the acute and chronic effects of kelp gull micropredation on southern right whales in Argentina
+summary: A study done in 2021 examining the acute and chronic effects of kelp gull micropredation on southern right whales in Argentina, compared to undisturbed whales in Australia.
 tags:
   - right whales
   - drone
@@ -28,5 +28,5 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: XX
+slides:
 ---
