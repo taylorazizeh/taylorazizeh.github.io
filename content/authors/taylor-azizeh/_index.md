@@ -10,6 +10,9 @@ last_name: Azizeh
 superuser: true
 
 # Role/position/tagline
+role: she/her/hers
+
+# Role/position/tagline
 role: Graduate Student
 
 # Organizations/Affiliations to show in About widget
