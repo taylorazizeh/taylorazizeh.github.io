@@ -167,6 +167,7 @@ sections:
           title: 'Alumni Excellence Award'
           url: ''    
     design:
+      columns: '2'
       background:
         image:
           # Name of image in `assets/media/`.
@@ -183,8 +184,6 @@ sections:
           parallax: true
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
-    design:
-      columns: '2'
   - block: portfolio
     id: projects
     content:
