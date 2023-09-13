@@ -1,6 +1,6 @@
 ---
 title: Effects of biological stressor on southern right whales
-summary: A study done in 2021 examining the acute and chronic effects of kelp gull micropredation on southern right whales in Argentina, compared to undisturbed whales in Australia.
+summary: Our study, [published in 2021](https://www.int-res.com/abstracts/meps/v668/p133-148/), that examined the acute and chronic effects of kelp gull micropredation on southern right whales in Argentina, compared to undisturbed whales in Australia.
 tags:
   - right whales
   - drone
