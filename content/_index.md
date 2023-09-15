@@ -242,7 +242,6 @@ sections:
     content:
       title: Contact
       subtitle:
-      justify-content: center
       # Contact (add or remove contact options as necessary)
       email: taylorazizeh@gmail.com
       phone: 
@@ -265,4 +264,5 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
+      justify-content: center
 ---
