@@ -259,8 +259,8 @@ sections:
           link: 'https://twitter.com/TAzizeh'
       # Coordinates to display a map - set your map provider in `params.yaml`
       coordinates:
-        latitude: '36.79368'
-        longitude: '-121.78765'
+        latitude: '36.4739'
+        longitude: '-121.4714'
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
