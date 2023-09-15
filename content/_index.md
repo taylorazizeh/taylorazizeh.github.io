@@ -242,8 +242,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Please email me or send me a message via this form.
+      justify-content: center
       # Contact (add or remove contact options as necessary)
       email: taylorazizeh@gmail.com
       phone: 
