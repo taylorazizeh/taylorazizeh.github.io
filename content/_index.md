@@ -268,7 +268,7 @@ sections:
       background:
         image:
           # Name of image in `assets/media/`.
-          filename: iceland.JPG
+          filename: iceland.jpg
           # Apply image filters?
           filters:
             # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
