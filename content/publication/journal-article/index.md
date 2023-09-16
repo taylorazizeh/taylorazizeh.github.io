@@ -11,9 +11,9 @@ authors:
 - Lars Bejder
 - Peter T. Madsen
 - Fredrik Christiansen
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
 date: "2021-06-24T00:00:00Z"
 doi: "10.3354/meps13716"
 
@@ -30,13 +30,12 @@ publication_types: ["2"]
 publication: "*Marine Ecology Progress Series, 668*(133-148)"
 publication_short: "MEPS"
 
-abstract:
+abstract: 'Kelp gulls Larus dominicanus (KG) feed on the skin and blubber of living southern right whales Eubalaena australis (SRWs) off Península Valdés (PV), Argentina. The whales respond strongly to KG micropredation by changing their immediate (acute) behavior during attacks and their overall (chronic) surfacing pattern and body posture to minimize gull exposure. The energetic and large-scale behavioral consequences of these attacks are unknown. To address this knowledge gap, we quantified the effect size of both acute (during attacks) and chronic (not during attacks) responses by comparing the respiration rates, swim speed, and nursing behavior of PV SRWs to undisturbed (control) SRW mother-calf pairs in Head of Bight, Australia, using unmanned aerial vehicle focal follows. Even when gulls were not attacking, PV SRW mothers and calves demonstrated ~50 and ~25% higher respiration rates, respectively, than whales in Australia. During attacks, PV calf respiration rates increased by an additional 10%. PV SRW mothers also frequently (>76% of respirations) exhibited irregular breathing postures, causing the whales to potentially expend extra energy by working against their natural buoyancy. Despite no significant increase in average maternal swim speed, 76 and 90% of gull attacks elicited strong behavioral reactions from mothers and calves, respectively. Overall, PV calves spent less time nursing during individual bouts compared to those in Australia but entered suckling position more frequently. Furthermore, kelp gulls seemed to show a preference for attacking previously wounded calves and at a higher rate. These chronic and acute behavioral effects may carry energetic costs, which could have long-term consequences for SRW survival and reproduction.'
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
-- Source Themes
 featured: false
 
 links:
@@ -70,15 +69,5 @@ projects: [content/project/respiratory-dynamics/index.md]
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
