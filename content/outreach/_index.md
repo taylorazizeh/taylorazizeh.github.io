@@ -1,5 +1,5 @@
 ---
-title: Bats: spooky or spectacular?
+title: Bats, spooky or spectacular?
 summary: Upcoming talk at the Carmel Valley Library. October 14th at 10:15am.
 date: "2018-06-28T00:00:00Z"
 
