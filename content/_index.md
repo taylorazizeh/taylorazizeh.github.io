@@ -11,34 +11,34 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: taylor-azizeh
-  - block: slider
-    content:
-      title: 
-      align: center
-      background:
-        position: right
-        color: '#666'
-        brightness: 0.7
-        media: iceland.jpg
-        fit: cover
-      title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
-      align: left
-      background:
-        position: center
-        color: '#555'
-        brightness: 0.7
-        media: background.JPG
-        fit: cover
-      title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
-      align: right
-      background:
-        position: center
-        color: '#333'
-        brightness: 0.5
-        media: icon.png
-        fit: cover
+  #- block: slider
+    #content:
+      #title: 
+      #align: center
+      #background:
+        #position: right
+        #color: '#666'
+        #brightness: 0.7
+        #media: iceland.jpg
+        #fit: cover
+      #title: Lunch & Learn ☕️
+      #content: 'Share your knowledge with the group and explore exciting new topics together!'
+      #align: left
+      #background:
+        #position: center
+        #color: '#555'
+        #brightness: 0.7
+        #media: background.JPG
+        #fit: cover
+      #title: World-Class Semiconductor Lab
+      #content: 'Just opened last month!'
+      #align: right
+      #background:
+        #position: center
+        #color: '#333'
+        #brightness: 0.5
+        #media: icon.png
+        #fit: cover
   - block: experience
     id: experience
     content:
