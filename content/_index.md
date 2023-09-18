@@ -36,7 +36,7 @@ sections:
           # Image focal point. Options include `left`, `center` (default), or `right`.
           position: center
           # Use a fun parallax-like fixed background effect on desktop? true/false
-          parallax: false
+          parallax: true
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
           filters:
@@ -49,7 +49,7 @@ sections:
           # Image focal point. Options include `left`, `center` (default), or `right`.
           position: center
           # Use a fun parallax-like fixed background effect on desktop? true/false
-          parallax: false
+          parallax: true
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
           filters:
@@ -62,7 +62,7 @@ sections:
           # Image focal point. Options include `left`, `center` (default), or `right`.
           position: center
           # Use a fun parallax-like fixed background effect on desktop? true/false
-          parallax: false
+          parallax: true
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
           filters:
@@ -71,7 +71,7 @@ sections:
       spacing:
         padding: ["150px", "0", "70px", "0"]  
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
   #- block: slider
     #content:
       #title: 
@@ -298,7 +298,7 @@ sections:
   - block: markdown
     id: photography
     content:
-      title: Photos
+      title: Photography
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
