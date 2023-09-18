@@ -43,7 +43,7 @@ sections:
             # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
             brightness: 0.75
         image:
-          filename: iceland.JPG
+          filename: iceland.jpg
           #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
           size: cover
           # Image focal point. Options include `left`, `center` (default), or `right`.
