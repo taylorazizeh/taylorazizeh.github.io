@@ -108,7 +108,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 'google'
+    provider: 'OpenStreetMaps'
     api_key: ''
     zoom: 15
 
