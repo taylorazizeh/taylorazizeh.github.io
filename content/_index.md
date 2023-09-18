@@ -11,6 +11,54 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: taylor-azizeh
+  - block: markdown
+    #id: about   
+    content:
+      default_button_index: 0
+      title: ""
+      subtitle: ''
+      #text: >-
+
+      # Filter toolbar (optional).
+      # Add or remove as many filters (`filter_button` instances) as you like.
+      # To show all items, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the toolbar, delete the entire `filter_button` block.
+      
+    design:
+      background:
+        #color: '#1f4e74'
+        text_color_light: false
+        image:
+          filename: background.JPG
+          #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+          size: cover
+          # Image focal point. Options include `left`, `center` (default), or `right`.
+          position: center
+          # Use a fun parallax-like fixed background effect on desktop? true/false
+          parallax: false
+          # Text color (true=light, false=dark, or remove for the dynamic theme color).
+          text_color_light: true
+          filters:
+            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.75
+        image:
+          filename: iceland.JPG
+          #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+          size: cover
+          # Image focal point. Options include `left`, `center` (default), or `right`.
+          position: center
+          # Use a fun parallax-like fixed background effect on desktop? true/false
+          parallax: false
+          # Text color (true=light, false=dark, or remove for the dynamic theme color).
+          text_color_light: true
+          filters:
+            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.75
+      spacing:
+        padding: ["150px", "0", "70px", "0"]  
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
   #- block: slider
     #content:
       #title: 
