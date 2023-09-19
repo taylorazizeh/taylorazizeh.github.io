@@ -1,5 +1,5 @@
 ---
-title: Bats: spooky or spooktacular?
+title: 'Bats: spooky or spooktacular?'
 subtitle: XX
 
 # Summary for listings and search engines
