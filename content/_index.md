@@ -301,7 +301,7 @@ sections:
       title: Photography
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="photography" >}}
     design:
       columns: '1'
   - block: collection
