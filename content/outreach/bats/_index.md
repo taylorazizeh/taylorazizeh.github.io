@@ -18,7 +18,7 @@ lastmod: '2023-09-01T00:00:00Z'
 draft: false
 
 # Show this page in the Featured widget?
-featured: false
+featured: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -41,9 +41,4 @@ categories:
 
 1. XX
 
-[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://wowchemy.com)
-
 ---
-
-XXXXX
-
