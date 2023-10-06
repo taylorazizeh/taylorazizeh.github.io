@@ -120,6 +120,7 @@ sections:
           location: Monterey, California
           date_start: '2023-05-01'
           date_end: ''
+          description: Assist with aerial-based marine mammal and turtle surveys off the US Pacific coast.
         - title: Protected Species Observer
           company: Elkhorn Slough National Estuarine Research (ESNERR)
           company_url: 'https://elkhornslough.org/reserve/'
