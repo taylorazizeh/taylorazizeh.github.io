@@ -113,6 +113,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Aerial Observer
+          company: Upwell
+          company_url: 'https://www.upwell.org/'
+          company_logo: UpwellHorizontal
+          location: Monterey, California
+          date_start: '2023-05-01'
+          date_end: ''
         - title: Protected Species Observer
           company: Elkhorn Slough National Estuarine Research (ESNERR)
           company_url: 'https://elkhornslough.org/reserve/'
