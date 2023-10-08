@@ -312,7 +312,7 @@ sections:
     id: outreach
     content:
       title: Past & Future Outreach
-      text: 'XX'
+      text: ''
       # Choose how many pages you would like to display (0 = all pages)
       count: 0   
       filters:
