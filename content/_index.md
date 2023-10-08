@@ -311,12 +311,10 @@ sections:
   - block: collection
     id: outreach
     content:
-      title: Past & Current Outreach
-      subtitle: ''
+      title: Past & Future Outreach
       text: 'XX'
       # Choose how many pages you would like to display (0 = all pages)
-      count: 0
-      # Filter on criteria
+      count: 0   
       filters:
         # The folders to display content from
         folders:
@@ -324,17 +322,10 @@ sections:
         author: ""
         category: ""
         tag: ""
-      # Choose how many pages you would like to offset by
-      # Useful if you wish to show the first item in the Featured widget
-      offset: 0
-      # Field to sort by, such as Date or Title
-      sort_by: 'Date'
-      sort_ascending: false
+        featured_only: false
     design:
-      # Choose a listing view
-      view: compact
-      # Choose single or dual column layout
       columns: '2'
+      view: compact    
   - block: collection
     id: publications
     content:
