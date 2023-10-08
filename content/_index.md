@@ -11,95 +11,91 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: taylor-azizeh
-  - block: markdown
+  #- block: markdown
     #id: about   
-    content:
-      default_button_index: 0
-      title: ""
-      subtitle: ''
+    #content:
+      #default_button_index: 0
+      #title: ""
+      #subtitle: ''
       #text: >-
-
       # Filter toolbar (optional).
       # Add or remove as many filters (`filter_button` instances) as you like.
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      
-    design:
-      background:
+    #design:
+      #background:
         #color: '#1f4e74'
-        text_color_light: false
-        image:
-          filename: slider/iceland.jpg
-          #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
-          size: cover
-          # Image focal point. Options include `left`, `center` (default), or `right`.
-          position: center
-          # Use a fun parallax-like fixed background effect on desktop? true/false
-          parallax: true
-          # Text color (true=light, false=dark, or remove for the dynamic theme color).
-          text_color_light: true
-          filters:
-            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.75
-        image:
-          filename: slider/sermitsiaq.jpg
-          #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
-          size: cover
-          # Image focal point. Options include `left`, `center` (default), or `right`.
-          position: center
-          # Use a fun parallax-like fixed background effect on desktop? true/false
-          parallax: true
-          # Text color (true=light, false=dark, or remove for the dynamic theme color).
-          text_color_light: true
-          filters:
-            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.75
-        image:
-          filename: slider/weddell.JPG
-          #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
-          size: cover
-          # Image focal point. Options include `left`, `center` (default), or `right`.
-          position: center
-          # Use a fun parallax-like fixed background effect on desktop? true/false
-          parallax: true
-          # Text color (true=light, false=dark, or remove for the dynamic theme color).
-          text_color_light: true
-          filters:
-            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.75
-      spacing:
-        padding: ["150px", "0", "70px", "0"]  
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
-  #- block: slider
-    #content:
-      #title: 
-      #align: center
-      #background:
-        #position: right
-        #color: '#666'
-        #brightness: 0.7
-        #media: iceland.jpg
-        #fit: cover
-      #title: Lunch & Learn ☕️
-      #content: 'Share your knowledge with the group and explore exciting new topics together!'
-      #align: left
-      #background:
-        #position: center
-        #color: '#555'
-        #brightness: 0.7
-        #media: background.JPG
-        #fit: cover
-      #title: World-Class Semiconductor Lab
-      #content: 'Just opened last month!'
-      #align: right
-      #background:
-        #position: center
-        #color: '#333'
-        #brightness: 0.5
-        #media: icon.png
-        #fit: cover
+        #image:
+          #filename: slider/weddell.JPG
+          ##  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+          #size: cover
+          ## Image focal point. Options include `left`, `center` (default), or `right`.
+          #position: center
+          ## Use a fun parallax-like fixed background effect on desktop? true/false
+          #parallax: true
+          ## Text color (true=light, false=dark, or remove for the dynamic theme color).
+          #text_color_light: true
+          #filters:
+            ## Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            #brightness: 0.75
+      #spacing:
+        #padding: ["150px", "0", "70px", "0"]  
+      ## Choose how many columns the section has. Valid values: '1' or '2'.
+      #columns: '2'
+  - block: slider
+    content:
+      slides:
+        - title: 
+          content:
+          align: center
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: iceland.jpg
+              filters:
+                brightness: 0.7
+            position: right
+            color: '#666'
+        - title: 
+          content:
+          align: left
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: adelie2.JPG
+              filters:
+                brightness: 0.7
+            position: center
+            color: '#555'
+        - title:
+          content:
+          align: right
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: empe_NBP.JPG
+              filters:
+                brightness: 0.5
+            position: center
+            color: '#333'
+          link:
+            icon: graduation-cap
+            icon_pack: fas
+            text: Join Us
+            url: ../contact/
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      # Make the slides full screen within the browser window?
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: true
+      # Duration of transition between slides (in ms)
+      interval: 2000
   - block: experience
     id: experience
     content:
