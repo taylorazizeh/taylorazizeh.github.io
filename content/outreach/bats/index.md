@@ -1,6 +1,6 @@
 ---
 title: "Bats: spooky or spooktacular?"
-subtitle: XX
+subtitle:
 authors:
 - taylor-azizeh
 date: "2021-06-24T00:00:00Z"
