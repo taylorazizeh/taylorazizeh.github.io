@@ -1,17 +1,17 @@
 ---
-title: "Bats: spooky or spooktacular?"
+title: "Bats: Spooky or Spooktacular?"
 subtitle:
 authors:
 - taylor-azizeh
-date: "2021-06-24T00:00:00Z"
+date: "2023-10-10T10:15:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
 
-abstract: 'XX'
+abstract: 'Bats'
 
 links:
- - name: ""
+ - name: "Carmel Valley Library"
    url: "https://www.co.monterey.ca.us/Home/Components/Calendar/Event/33879/9235?selcat=1166"
 url_pdf: 
 url_code: ''
