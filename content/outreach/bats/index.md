@@ -3,12 +3,12 @@ title: "Bats: Spooky or Spooktacular?"
 subtitle:
 authors:
 - taylor-azizeh
-date: "2023-10-10T10:15:00Z"
+date: "2023-10-14T10:15:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
 
-abstract: 'Bats'
+abstract: 'Prepare for spooky season by joining me at the Carmel Valley Library on October 14th, 2023 at 10:15am to learn more about bats!'
 
 links:
  - name: "Carmel Valley Library"
