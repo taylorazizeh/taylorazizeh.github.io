@@ -22,9 +22,12 @@ bio: My research interests include wildlife energetics, the effects of disturban
 
 # Interests to show in About widget
 interests:
-  - Wildlife ecology
+  - Behavioral ecology
+  - Effects of disturbance
+  - Community dyanamics
   - Wildlife photography
   - Outdoor recreation
+  - Equity, diversity, and inclusion in STEM
 
 # Education to show in About widget
 education:
