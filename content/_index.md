@@ -211,6 +211,14 @@ sections:
       items:
         - certificate_url: 
           date_end: ''
+          date_start: '2023-12-01'
+          description: ''
+          organization: San José State University
+          organization_url: https://www.sjsu.edu/biology/
+          title: 'John and Betty Davison Scholarship'
+          url: ''
+        - certificate_url: 
+          date_end: ''
           date_start: '2023-05-01'
           description: ''
           organization: Moss Landing Marine Laboratories
