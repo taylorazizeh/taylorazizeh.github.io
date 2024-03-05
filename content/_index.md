@@ -211,6 +211,14 @@ sections:
       items:
         - certificate_url: 
           date_end: ''
+          date_start: '2024-02-01'
+          description: ''
+          organization: Moss Landing Marine Laboratories
+          organization_url: 
+          title: 'Xiphias Martin Scholarship'
+          url: ''
+        - certificate_url: 
+          date_end: ''
           date_start: '2023-12-01'
           description: ''
           organization: San José State University
