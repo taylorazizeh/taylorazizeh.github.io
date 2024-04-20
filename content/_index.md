@@ -112,7 +112,7 @@ sections:
         - title: PhD Fellow
           company: Ocean Ecology Lab - Oregon State University
           company_url: 'https://www.oceanecologylab.org/'
-          company_logo:
+          company_logo: oel
           location: Corvallis, Oregon
           date_start: '2024-09-01'
           date_end: ''
