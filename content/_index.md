@@ -109,6 +109,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: PhD Fellow
+          company: Ocean Ecology Lab - Oregon State University
+          company_url: 'https://www.oceanecologylab.org/'
+          company_logo:
+          location: Corvallis, Oregon
+          date_start: '2024-09-01'
+          date_end: ''
+          description: Incoming Prestigious Diversity PhD Fellow in the Ocean Ecology Lab at Oregon State University.
         - title: Aerial Observer
           company: Upwell
           company_url: 'https://www.upwell.org/'
@@ -133,7 +141,7 @@ sections:
           date_start: '2022-03-01'
           date_end: ''
           description: Assist with safe operation of vessel around marine mammals, conduct outreach with customers, and help identify species at distance.
-        - title: Graduate Student
+        - title: Master's Student
           company: Moss Landing Marine Laboratories
           company_url: 'https://mlml.sjsu.edu/birdmam/taylor-azizeh'
           company_logo: mlml-logo
@@ -209,6 +217,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: 
+          date_end: ''
+          date_start: '2024-03-01'
+          description: ''
+          organization: Oregon State University
+          organization_url: 
+          title: 'Prestigious Diversity Fellowship'
+          url: 'https://gradschool.oregonstate.edu/awards/prestigious-diversity-fellowship'
         - certificate_url: 
           date_end: ''
           date_start: '2024-02-01'
