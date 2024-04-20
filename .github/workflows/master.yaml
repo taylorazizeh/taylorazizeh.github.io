@@ -24,23 +24,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3 # Ensure this is the latest versio
+        uses: actions/checkout@v4 # Ensure this is the latest versio
       
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2 # You might need to find a new version or alternative
+        uses: peaceiris/actions-hugo@v3 # You might need to find a new version or alternative
         with:
           hugo-version: "latest"
           extended: true
       
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v3 # Ensure this is the latest version
+        uses: actions/configure-pages@v5 # Ensure this is the latest version
       
       - name: Build
         run: hugo --baseURL "${{ steps.pages.outputs.base_url }}/"
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
   
