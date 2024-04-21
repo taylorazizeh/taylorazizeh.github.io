@@ -116,7 +116,15 @@ sections:
           location: Corvallis, Oregon
           date_start: '2024-09-01'
           date_end: ''
-          description: Test Incoming Prestigious Diversity PhD Fellow in the Ocean Ecology Lab at Oregon State University.
+          description: Incoming Prestigious Diversity PhD Fellow in the Ocean Ecology Lab at Oregon State University.
+        - title: Invited Workshop Participant
+          company: International Whaling Commision
+          company_url: 'https://iwc.int/events-and-workshops/sc69b-2024'
+          company_logo: iwc
+          location: Bled, Slovenia
+          date_start: '2024-04-20'
+          date_end: '2024-04-21'
+          description: Invited participant to a pre-meeting of the IWC SC69b Meeting to review global southern right whale catch series.
         - title: Aerial Observer
           company: Upwell
           company_url: 'https://www.upwell.org/'
