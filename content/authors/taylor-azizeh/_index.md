@@ -10,12 +10,14 @@ last_name: Azizeh
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student (she/her/hers)
+role: M.Sc. Candidate (she/her/hers)
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Moss Landing Marine Laboratories
     url: [https://mlml.sjsu.edu/]
+  - name: Oregon State University
+    url: [https://fwcs.oregonstate.edu/]
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include wildlife energetics, the effects of disturbance, polar biology, and more!
@@ -28,13 +30,17 @@ interests:
   - Wildlife photography
   - Outdoor recreation
   - Equity, diversity, and inclusion in STEM
+  - Queer representation in the sciences
 
 # Education to show in About widget
 education:
   courses:
+    - course: Ph.D. in Wildlife Science
+      institution: Oregon State University
+      year: beginning in September 2024
     - course: M.Sc. in Marine Science
       institution: Moss Landing Marine Laboratories
-      year: expected 2024
+      year: expected December 2024
     - course: B.Sc. in Environmental Science
       institution: University of Idaho
       year: 2019
@@ -79,5 +85,5 @@ email: ''
 highlight_name: true
 ---
 
-I am currently a [NSF GRFP Fellow](https://www.nsfgrfp.org/) at [Moss Landing Marine Laboratories](https://mlml.sjsu.edu/) in the [Vertebrate Ecology Lab](https://mlml.sjsu.edu/birdmam/). My master's thesis focuses on the foraging ecology of late chick-rearing emperor penguins in the Ross Sea. Broadly, my research interests include wildlife ecology, bioenergetics, the effects of disturbance, habitat use, and more. Prior to this, I attended the [University of Idaho (UI)](https://www.uidaho.edu/) where I double majored in [Environmental Science](https://www.uidaho.edu/cnr/undergraduate-majors/bs-envs) and [Wildlife Resources](https://www.uidaho.edu/cnr/undergraduate-majors/bs-wildlife). At the UI, I founded the Idaho Chapter of the [Women in Science Society](https://www.womeninsciencesociety.org/), participated in the [NSF IRES](https://new.nsf.gov/funding/opportunities/international-research-experiences-students-ires-0) program, and worked as a Student Ambassador for the [College of Natural Resources](https://www.uidaho.edu/cnr). Post-graduation, I spent a year in Denmark and Greenland as a [Fulbright](https://fulbright.org/) student, studying marine wildlife and polar ecosystems. I also spent time working with the [British Antarctic Survey](https://www.bas.ac.uk/), [LeopardSeals.org](https://www.leopardseals.org/), and [Oceanomare Delphis Onlus](https://oceanomaredelphis.org/en/). I currently work part-time as an Aerial Observer with [Upwell](https://www.upwell.org/) and as a Protected Species Observer with [ESNERR](https://elkhornslough.org/reserve/).
+I am an incoming [Prestigious Diversity Ph.D. Fellow](https://gradschool.oregonstate.edu/awards/prestigious-diversity-fellowship) to the [Ocean Ecology Lab](https://www.oceanecologylab.org/) at [Oregon State University](https://fwcs.oregonstate.edu/) this fall. My dissertation will focus on the drivers of unusual mortality events (UMEs) in gray whales (Eschrichtius robustus). Currently, I am a [NSF GRFP Fellow](https://www.nsfgrfp.org/) at [Moss Landing Marine Laboratories](https://mlml.sjsu.edu/) in the [Vertebrate Ecology Lab](https://mlml.sjsu.edu/birdmam/). My master's thesis focuses on the foraging ecology of late chick-rearing emperor penguins (Aptenodytes forsteri) in the Ross Sea. Broadly, my research interests include wildlife ecology, bioenergetics, the effects of disturbance, habitat use, and more. Prior to this, I attended the [University of Idaho (UI)](https://www.uidaho.edu/) where I double majored in [Environmental Science](https://www.uidaho.edu/cnr/undergraduate-majors/bs-envs) and [Wildlife Resources](https://www.uidaho.edu/cnr/undergraduate-majors/bs-wildlife). At the UI, I founded the Idaho Chapter of the [Women in Science Society](https://www.womeninsciencesociety.org/), participated in the [NSF IRES](https://new.nsf.gov/funding/opportunities/international-research-experiences-students-ires-0) program, and worked as a Student Ambassador for the [College of Natural Resources](https://www.uidaho.edu/cnr). Post-graduation, I spent a year in Denmark and Greenland as a [Fulbright](https://fulbright.org/) student, studying marine wildlife and polar ecosystems. I also spent time working with the [British Antarctic Survey](https://www.bas.ac.uk/), [LeopardSeals.org](https://www.leopardseals.org/), and [Oceanomare Delphis Onlus](https://oceanomaredelphis.org/en/). I currently work part-time as an Aerial Observer with [Upwell](https://www.upwell.org/) and as a Protected Species Observer with [ESNERR](https://elkhornslough.org/reserve/).
 {style="text-align: justify;"}
