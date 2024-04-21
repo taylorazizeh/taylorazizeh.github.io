@@ -1,5 +1,5 @@
 ---
-title: "MLML 58th Annual Open House"
+title: "MLML Open House 2024"
 subtitle:
 authors:
 - taylor-azizeh
