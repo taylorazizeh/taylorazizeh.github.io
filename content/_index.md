@@ -116,7 +116,7 @@ sections:
           location: Corvallis, Oregon
           date_start: '2024-09-01'
           date_end: ''
-          description: Incoming Prestigious Diversity PhD Fellow in the Ocean Ecology Lab at Oregon State University.
+          description: Test Incoming Prestigious Diversity PhD Fellow in the Ocean Ecology Lab at Oregon State University.
         - title: Aerial Observer
           company: Upwell
           company_url: 'https://www.upwell.org/'
