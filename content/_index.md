@@ -235,6 +235,14 @@ sections:
           url: 'https://gradschool.oregonstate.edu/awards/prestigious-diversity-fellowship'
         - certificate_url: 
           date_end: ''
+          date_start: '2024-04-10'
+          description: ''
+          organization:  CSU Council on Ocean Affairs, Science, and Technology (COAST)
+          organization_url: 'https://www.calstate.edu/impact-of-the-csu/research/coast/Pages/default.aspx'
+          title: 'Graduate Student Travel Award'
+          url: 'https://www.calstate.edu/impact-of-the-csu/research/coast/funding/Pages/student-funding.aspx'
+        - certificate_url: 
+          date_end: ''
           date_start: '2024-02-01'
           description: ''
           organization: Moss Landing Marine Laboratories
