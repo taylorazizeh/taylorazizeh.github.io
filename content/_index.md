@@ -227,12 +227,20 @@ sections:
       items:
         - certificate_url: 
           date_end: ''
-          date_start: '2024-03-01'
+          date_start: '2024-09-01'
           description: ''
           organization: Oregon State University
           organization_url: 
           title: 'Prestigious Diversity Fellowship'
           url: 'https://gradschool.oregonstate.edu/awards/prestigious-diversity-fellowship'
+        - certificate_url: 
+          date_end: ''
+          date_start: '2024-09-01'
+          description: ''
+          organization: ARCS Foundation
+          organization_url: 'https://oregon.arcsfoundation.org/'
+          title: 'ARCS Scholar Award'
+          url: 'https://gradschool.oregonstate.edu/awards/arcs-foundation-awards'
         - certificate_url: 
           date_end: ''
           date_start: '2024-04-10'
