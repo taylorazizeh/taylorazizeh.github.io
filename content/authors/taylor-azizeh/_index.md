@@ -10,7 +10,7 @@ last_name: Azizeh
 superuser: true
 
 # Role/position/tagline
-role: M.Sc. Candidate (she/her/hers)
+role: Ph.D. Fellow / Master's Candidate (she/her/hers)
 
 # Organizations/Affiliations to show in About widget
 organizations:
