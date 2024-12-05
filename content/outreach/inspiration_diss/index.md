@@ -11,7 +11,7 @@ publishDate: "2017-01-01T00:00:00Z"
 abstract: 'Taylor Azizeh discusses gray whale foraging ecology with host Matt Vaughn.'
 
 links:
- - name: "Inspiration Dissemination Podcast"
+ - name: "Listen to the full podcast episode here!"
    url: "https://share.transistor.fm/s/2d59565e"
    url_pdf:
    url_code: ''
