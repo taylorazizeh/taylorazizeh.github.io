@@ -3,7 +3,7 @@ title: "Fulbright, COVID-19, and Greenland"
 subtitle: "Taylor Rose Azizeh – Fulbright to Denmark/Greenland 2019"
 authors:
 - taylor-azizeh
-date: "2019-10-14T10:15:00Z"
+date: "2020-10-14T10:15:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
