@@ -14,10 +14,10 @@ role: Ph.D. Fellow / Master's Candidate (she/her/hers)
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: Marine Mammal Institute @ Oregon State University
+    url: [https://mmi.oregonstate.edu]
   - name: Moss Landing Marine Laboratories
     url: [https://mlml.sjsu.edu/]
-  - name: Oregon State University
-    url: [https://fwcs.oregonstate.edu/]
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include wildlife energetics, the effects of disturbance, polar biology, and more!
@@ -37,14 +37,14 @@ education:
   courses:
     - course: Ph.D. in Wildlife Science
       institution: Oregon State University
-      year: beginning in September 2024
+      year: September 2024 - current
     - course: M.Sc. in Marine Science
       institution: Moss Landing Marine Laboratories
-      year: expected December 2024
+      year: August 2021 - current
     - course: B.Sc. in Environmental Science
       institution: University of Idaho
       year: 2019
-    - course: BSc in Wildlife Resources
+    - course: BSc in Wildlife Science
       institution: University of Idaho
       year: 2019
 
