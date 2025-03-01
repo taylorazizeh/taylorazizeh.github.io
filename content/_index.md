@@ -116,7 +116,7 @@ sections:
           location: Corvallis, Oregon
           date_start: '2024-09-01'
           date_end: ''
-          description: Incoming Prestigious Diversity PhD Fellow in the Ocean Ecology Lab at Oregon State University.
+          description: Prestigious Diversity PhD Fellow in the Ocean Ecology Lab at Oregon State University.
         - title: Invited Workshop Participant
           company: International Whaling Commision
           company_url: 'https://iwc.int/events-and-workshops/sc69b-2024'
