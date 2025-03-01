@@ -231,6 +231,14 @@ sections:
           description: ''
           organization: Oregon State University
           organization_url: 
+          title: 'MMI Graduate Student Award'
+          url: 'https://mmi.oregonstate.edu'
+        - certificate_url: 
+          date_end: ''
+          date_start: '2024-09-01'
+          description: ''
+          organization: Oregon State University
+          organization_url: 
           title: 'Prestigious Diversity Fellowship'
           url: 'https://gradschool.oregonstate.edu/awards/prestigious-diversity-fellowship'
         - certificate_url: 
@@ -402,21 +410,16 @@ sections:
       email: taylorazizeh@gmail.com
       phone: 
       address:
-        street: 8272 Moss Landing Road
-        city: Moss Landing
-        region: CA
-        postcode: '95039'
+        street: 2030 SE Marine Science Dr
+        city: Newport
+        region: OR
+        postcode: '97365'
         country: United States
         country_code: US
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/TAzizeh'
       # Coordinates to display a map - set your map provider in `params.yaml`
       coordinates:
-        latitude: '36.7944'
-        longitude: '-121.7877'
+        latitude: '30.4204'
+        longitude: '-89.0185'
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
