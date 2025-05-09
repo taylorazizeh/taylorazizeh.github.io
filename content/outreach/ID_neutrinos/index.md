@@ -3,15 +3,15 @@ title: "No rest for the massless"
 subtitle:
 authors:
 - taylor-azizeh
-date: "2024-10-14T10:15:00Z"
+date: "2025-01-01T10:15:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
 
-abstract: 'Taylor Azizeh and Matt Vaughan interview PhD Student Noah Vaughan about neutrinos.'
+abstract: 'Read the blog and listen to the podcast episode.'
 
 links:
- - name: "Read the blog and listen to the episode here."
+ - name: "Taylor Azizeh and Matt Vaughan interview PhD Student Noah Vaughan about neutrinos"
    url: "https://blogs.oregonstate.edu/inspiration/2025/04/20/no-rest-for-the-massless/"
    url_pdf:
    url_code: ''
