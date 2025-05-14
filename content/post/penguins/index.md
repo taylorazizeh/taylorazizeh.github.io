@@ -44,7 +44,7 @@ My thesis work uses accelerometer data for foraging penguins collected during th
 ### Data cleaning
 Biologging tag data can be very messy, and often requires many steps to ensure there are no outliers or erroneous values. Therefore, I wrote these [custom functions](https://github.com/taylorazizeh/EmperorPenguins/tree/main/code/data_cleaning) to help prepare the data for analysis:  
 
-* Depth data was zero-offset in an unpublished program but can be done using the package [diveMove](https://cran.r-project.org/web/packages/diveMove/diveMove.pdf).  
+*Depth data was zero-offset in an unpublished program but can be done using the package [diveMove](https://cran.r-project.org/web/packages/diveMove/diveMove.pdf).  
 
 00. Concatenate data  
    This code concatenates the zero-offset corrected (ZOC) depth data* with the acceleration data.  
@@ -56,10 +56,10 @@ Biologging tag data can be very messy, and often requires many steps to ensure t
     netCDF files are much easier to use than .csv files, so this code exports each column as a new .nc file.
 
 Optional + helpful scripts
-> Downsample timestamps: can be used to manually downsample timestamps (extract every nth row)
-> Fix erroenous timestamps: can be used to identify individual problem animals and adjust timestamps
-> Rename netCDF file variable: used to rename the file variable in .nc files
-> Standardize GPS timestamps: used to convert all GPS timestamps to one format
+> Downsample timestamps: can be used to manually downsample timestamps (extract every nth row)  
+> Fix erroenous timestamps: can be used to identify individual problem animals and adjust timestamps  
+> Rename netCDF file variable: used to rename the file variable in .nc files  
+> Standardize GPS timestamps: used to convert all GPS timestamps to one format  
 
 ### Data analysis
 COMING SOON!
