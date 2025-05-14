@@ -100,7 +100,7 @@ sections:
       parallax: true
     
   - block: collection
-    id: posts
+    id: projects
     content:
       title: Current projects
       subtitle: ''
