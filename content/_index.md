@@ -96,6 +96,9 @@ sections:
       loop: true
       # Duration of transition between slides (in ms)
       interval: 3500
+      # Use a fun parallax-like fixed background effect on desktop? true/false
+      parallax: true
+    
   - block: collection
     id: posts
     content:
@@ -159,7 +162,7 @@ sections:
           company_logo: UpwellHorizontal
           location: Monterey, California
           date_start: '2023-05-01'
-          date_end: ''
+          date_end: '2024-09-01'
           description: Assist with aerial-based marine mammal and turtle surveys off the US Pacific coast.
         - title: Protected Species Observer
           company: Elkhorn Slough National Estuarine Research (ESNERR)
@@ -167,7 +170,7 @@ sections:
           company_logo: ESF_logo
           location: Moss Landing, California
           date_start: '2022-05-01'
-          date_end: ''
+          date_end: '2024-09-01'
           description: Help protect federally protected marine species through monitoring and mitigation.
         - title: Naturalist and Deckhand
           company: Sea Goddess Whale Watching
@@ -175,7 +178,7 @@ sections:
           company_logo: SGWW_logo
           location: Moss Landing, California
           date_start: '2022-03-01'
-          date_end: ''
+          date_end: '2024-09-01'
           description: Assist with safe operation of vessel around marine mammals, conduct outreach with customers, and help identify species at distance.
         - title: Master's Student
           company: Moss Landing Marine Laboratories
@@ -219,26 +222,7 @@ sections:
           description: Participated in the IRES Program at the University of Idaho, investigating bat physiology in an urbanized landscape with Dr. Lisette Waits and Dr. Rodrigo Cisneros.
     design:
       columns: '2'
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
-      filters:
-        folders:
-          - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+
   - block: accomplishments
     id: awards
     content:
