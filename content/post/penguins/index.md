@@ -1,7 +1,7 @@
 ---
 title: Foraging ecology of emperor penguins
-subtitle: My master's work focuses on using accelerometers to detect potential prey capture signals.
-summary: My master's work focuses on using accelerometers to detect potential prey capture signals.
+subtitle: My master's work focused on using accelerometers to detect potential prey capture signals.
+summary: My master's work focused on using accelerometers to detect potential prey capture signals.
 authors:
 - taylorazizeh
 tags: []
