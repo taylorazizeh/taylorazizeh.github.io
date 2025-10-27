@@ -140,6 +140,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Marine Mammal Observer
+          company: Distributed Biological Observatory
+          company_url: 'https://www.pmel.noaa.gov/dbo/'
+          company_logo: dbo
+          location: Arctic Sea
+          date_start: '2025-08-01'
+          date_end: '2025-08-31'
+          description: Marine Mammal Observer onboard the R/V Sikuliaq.
         - title: PhD Fellow
           company: Ocean Ecology Lab - Oregon State University
           company_url: 'https://www.oceanecologylab.org/'
@@ -413,6 +421,34 @@ sections:
     design:
       columns: '2'
       view: compact
+    
+  - block: collection
+    id: podcast
+    content:
+      title: Inspiration Dissemination Podcast
+      subtitle: ''
+      text: 'Listen to podcast episodes co-hosted by Taylor Azizeh'
+      count: 0 # Choose how many pages you would like to display (0 = all pages)
+      filters: # Filter on criteria
+        folders:  # The folders to display content from
+            - podcast
+        author: "taylor-azizeh"
+        category: ""
+        tag: ""
+        publication_type: ""
+        featured_only: false
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        # Choose how many pages you would like to offset by
+        # Useful if you wish to show the first item in the Featured widget
+        offset: 0
+        # Field to sort by, such as Date or Title
+        sort_by: 'Date'
+        sort_ascending: false
+      design:
+        # Choose a listing view
+        view: article-grid
   - block: contact
     id: contact
     content:
