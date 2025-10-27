@@ -186,8 +186,8 @@ sections:
           company_logo: mlml-logo
           location: Moss Landing, California
           date_start: '2021-08-01'
-          date_end: ''
-          description: Currently a graduate student in the Vertebrate Ecology Lab, studying the foraging ecology of emperor penguins.
+          date_end: '2025-10-21'
+          description: Completed my M.Sc. in the Vertebrate Ecology Lab on a thesis focused on the foraging ecology of emperor penguins.
         - title: Research Intern
           company: British Antarctic Survey
           company_url: 'https://www.bas.ac.uk/'
